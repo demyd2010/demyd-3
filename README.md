@@ -8,9 +8,7 @@
     body {
       font-family: Calibri, sans-serif;
       margin: 50;
-      color: white
-    }
-
+      color: white }
     .menu {
       width: 400px;
       height: 550px;
@@ -18,33 +16,23 @@
       margin: 20px;
       border: 2px solid #ccc;
       background-size: cover;
-      background-position: center;
-    }
-
+      background-position: center; }
     .breakfast {
-      background-image: url('breakfast 2.jpg');
-    }
-
+      background-image: url('breakfast 2.jpg'); }
     .lunch {
       background-image: url('lunch 2.jpg');
     }
-
     .dinner {
-      background-image: url('dinner 3.jpg');
-    }
-
+      background-image: url('dinner 3.jpg'); }
 	h2 {
       	font-size: 32px;
       	font-weight: bold;
       	margin-bottom: 15px;
-        margin-top: 5px;
-    	   }
-
+        margin-top: 5px;}
     ul {
       list-style-type: none;
       padding: 0;
     }
-
     li {
       margin-bottom: 5px;
       font-size: 24px; 
@@ -53,7 +41,6 @@
       list-style-type: none;
       padding: 0;
     }
-
     li {
       margin-bottom: 5px;
     }
